@@ -1,0 +1,21 @@
+{
+  "name": "codenationchallenge",
+  "version": "1.0.0",
+  "description": "Cryptography of Julius Caesar challenge",
+  "main": "index.js",
+  "author": "Carlos Henrique",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.3.0",
+    "form-data": "^3.0.0",
+    "inquirer-menu": "^1.0.0",
+    "js-sha1": "^0.6.0",
+    "prompts": "^2.3.2"
+  }
+}
